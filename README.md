@@ -1,1 +1,1 @@
-# AWS-EC2-trial
+# AWS-EC2-trialGit to Cloud integration using free services
